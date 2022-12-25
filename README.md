@@ -1,8 +1,8 @@
 # Pterodactyl_Create_User_API
 ---
 
-# Api ile kullanıcı oluşturmanızı Sağlar.
-# Discord botunuza uyarlaya bilirsiniz bu sayede discord üzerinden panel satışı yapabilirsiniz. Kullanıcılarınız hesap oluşturur ve hesaplarına sunucu tanımlaya bilirsiniz api aracılığı ile.
+- Api ile kullanıcı oluşturmanızı Sağlar.
+- Discord botunuza uyarlaya bilirsiniz bu sayede discord üzerinden panel satışı yapabilirsiniz. Kullanıcılarınız hesap oluşturur ve hesaplarına sunucu tanımlaya bilirsiniz api aracılığı ile.
 
 
 ---
